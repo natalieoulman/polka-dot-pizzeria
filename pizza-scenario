@@ -1,0 +1,23 @@
+Natalie Oulman
+CS 328 – Spring 2025
+Dr. Sharon Tuttle
+19 February 2024
+
+328 Project - Polka-Dot Pizzeria
+
+GitHub URL: https://github.com/natalieoulman/polka-dot-pizzeria
+
+Application Name: Polka-Dot Pizzeria
+
+Description:	
+  Welcome to Polka Dot Pizzeria, where every pizza is a canvas of flavor and fun! Step into a world of culinary creativity, where traditional meets whimsy in a delightful dance of flavor. Our vibrant and quirky pizzeria is not just about the perfect crust and mouthwatering toppings; it's an experience that tickles your taste buds and captures your imagination.
+
+Business Rules:
+  1.	A user must be a customer or admin, or employee. 
+  2.	A user without a type will be assigned as a customer.
+  3.	If an item is out of stock, the item will be given the out-of-stock tag and be reflected in the UI.
+  4.	If a user is an admin, show them order details, stock of food and beverages, and delivery driver information.
+  5.	Orders can be completed over the phone or online. 
+  6.	The restaurant database maintains the food and beverage items that it provides.
+  7.	To deliver the orders, we have delivery drivers. Each driver is assigned a specific area code. The driver cannot deliver        outside the area allowed.
+  8.	The customer record is maintained so that premium customers can be awarded discounts.
