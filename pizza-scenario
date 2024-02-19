@@ -10,7 +10,8 @@ GitHub URL: https://github.com/natalieoulman/polka-dot-pizzeria
 Application Name: Polka-Dot Pizzeria
 
 Description:	
-  Welcome to Polka Dot Pizzeria, where every pizza is a canvas of flavor and fun! Step into a world of culinary creativity, where traditional meets whimsy in a delightful dance of flavor. Our vibrant and quirky pizzeria is not just about the perfect crust and mouthwatering toppings; it's an experience that tickles your taste buds and captures your imagination.
+  Welcome to Polka Dot Pizzeria, where every pizza is a canvas of flavor and fun! Step into a world of culinary creativity, where tradition meets whimsy in a delightful dance of flavor. 
+  Our vibrant and quirky pizzeria is not just about the perfect crust and mouthwatering toppings; it's an experience that tickles your taste buds and captures your imagination.
 
 Business Rules:
   1.	A user must be a customer or admin, or employee. 
